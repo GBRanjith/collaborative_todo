@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "631482541003",
+    "project_id": "collabrative-todo",
+    "storage_bucket": "collabrative-todo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631482541003:android:47ea21f6d998fbdf16cc4e",
+        "android_client_info": {
+          "package_name": "com.example.collaborative_todo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf7ZbD3Ac3bWNOFaYzHJSMkKFaNZC_UpM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
